@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Unique Usernames", "Problem 1. Unique Usernames\Problem 1. Unique Usernames.csproj", "{7C14907C-4223-4532-8710-5609705F249B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. Unique Usernames", "Problem 1. Unique Usernames\Problem 1. Unique Usernames.csproj", "{7C14907C-4223-4532-8710-5609705F249B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2. Sets of Elements", "Problem 2. Sets of Elements\Problem 2. Sets of Elements.csproj", "{42C83585-BE79-40BE-B21D-612B65CF80F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Periodic Table", "Problem 3. Periodic Table\Problem 3. Periodic Table.csproj", "{72236BB4-909C-4D3D-9F30-8B39EEFA7154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Even Times", "Problem 4. Even Times\Problem 4. Even Times.csproj", "{6D43BD75-E875-4CAC-AF1C-E8A12B93D163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Count Symbols", "Problem 5. Count Symbols\Problem 5. Count Symbols.csproj", "{7AC9AD5A-7495-429E-BBF7-62AFA2F78B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Wardrobe", "Problem 6. Wardrobe\Problem 6. Wardrobe.csproj", "{1A746B2A-FE9F-4071-BDDD-FD41E85E5BFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{7C14907C-4223-4532-8710-5609705F249B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C14907C-4223-4532-8710-5609705F249B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C14907C-4223-4532-8710-5609705F249B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C83585-BE79-40BE-B21D-612B65CF80F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C83585-BE79-40BE-B21D-612B65CF80F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C83585-BE79-40BE-B21D-612B65CF80F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C83585-BE79-40BE-B21D-612B65CF80F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72236BB4-909C-4D3D-9F30-8B39EEFA7154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72236BB4-909C-4D3D-9F30-8B39EEFA7154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72236BB4-909C-4D3D-9F30-8B39EEFA7154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72236BB4-909C-4D3D-9F30-8B39EEFA7154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D43BD75-E875-4CAC-AF1C-E8A12B93D163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D43BD75-E875-4CAC-AF1C-E8A12B93D163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D43BD75-E875-4CAC-AF1C-E8A12B93D163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D43BD75-E875-4CAC-AF1C-E8A12B93D163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC9AD5A-7495-429E-BBF7-62AFA2F78B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC9AD5A-7495-429E-BBF7-62AFA2F78B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC9AD5A-7495-429E-BBF7-62AFA2F78B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC9AD5A-7495-429E-BBF7-62AFA2F78B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A746B2A-FE9F-4071-BDDD-FD41E85E5BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A746B2A-FE9F-4071-BDDD-FD41E85E5BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A746B2A-FE9F-4071-BDDD-FD41E85E5BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A746B2A-FE9F-4071-BDDD-FD41E85E5BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
